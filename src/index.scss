@@ -1,0 +1,57 @@
+html,
+body {
+  background-color: #111;
+  color: lighten(#eee, 20%);
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.ticker-container {
+  margin: 0;
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 2fr));
+  background-color: #111;
+  gap: 1px;
+}
+
+.ticker-card {
+  padding: 100px;
+  position: relative;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+
+  &__positive {
+    background-color: rgba(lightgreen, 0.5);
+  }
+
+  &__negative {
+    background-color: rgba(lightcoral, 0.5);
+  }
+
+  &__neutral {
+    background-color: lighten(#111, 3%);
+  }
+
+  &__content {
+    &__pair {
+      position: absolute;
+      left: 10px;
+      top: 10px;
+    }
+
+    &__price {
+      font-size: 32px;
+    }
+
+    &__change {
+      position: absolute;
+      left: 10px;
+      top: 32px;
+    }
+  }
+}

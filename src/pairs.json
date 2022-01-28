@@ -1,0 +1,373 @@
+{
+  "pairs": [
+    {
+      "1INCH/USD": "1INCHUSD"
+    },
+    {
+      "AAVE/USD": "AAVEUSD"
+    },
+    {
+      "ACA/USD": "ACAUSD"
+    },
+    {
+      "ADA/USD": "ADAUSD"
+    },
+    {
+      "ADA/USDT": "ADAUSDT"
+    },
+    {
+      "ALGO/USD": "ALGOUSD"
+    },
+    {
+      "ANKR/USD": "ANKRUSD"
+    },
+    {
+      "ANT/USD": "ANTUSD"
+    },
+    {
+      "ASTR/USD": "ASTRUSD"
+    },
+    {
+      "ATLAS/USD": "ATLASUSD"
+    },
+    {
+      "ATOM/USD": "ATOMUSD"
+    },
+    {
+      "AUD/USD": "AUDUSD"
+    },
+    {
+      "AVAX/USD": "AVAXUSD"
+    },
+    {
+      "AXS/USD": "AXSUSD"
+    },
+    {
+      "BADGER/USD": "BADGERUSD"
+    },
+    {
+      "BAL/USD": "BALUSD"
+    },
+    {
+      "BAND/USD": "BANDUSD"
+    },
+    {
+      "BAT/USD": "BATUSD"
+    },
+    {
+      "BCH/USD": "BCHUSD"
+    },
+    {
+      "BCH/USDT": "BCHUSDT"
+    },
+    {
+      "BNC/USD": "BNCUSD"
+    },
+    {
+      "BNT/USD": "BNTUSD"
+    },
+    {
+      "CHZ/USD": "CHZUSD"
+    },
+    {
+      "COMP/USD": "COMPUSD"
+    },
+    {
+      "CQT/USD": "CQTUSD"
+    },
+    {
+      "CRV/USD": "CRVUSD"
+    },
+    {
+      "CTSI/USD": "CTSIUSD"
+    },
+    {
+      "DAI/USD": "DAIUSD"
+    },
+    {
+      "DAI/USDT": "DAIUSDT"
+    },
+    {
+      "DASH/USD": "DASHUSD"
+    },
+    {
+      "DOT/USD": "DOTUSD"
+    },
+    {
+      "DOT/USDT": "DOTUSDT"
+    },
+    {
+      "DYDX/USD": "DYDXUSD"
+    },
+    {
+      "ENJ/USD": "ENJUSD"
+    },
+    {
+      "EOS/USD": "EOSUSD"
+    },
+    {
+      "EOS/USDT": "EOSUSDT"
+    },
+    {
+      "ETH/USDT": "ETHUSDT"
+    },
+    {
+      "EWT/USD": "EWTUSD"
+    },
+    {
+      "FIDA/USD": "FIDAUSD"
+    },
+    {
+      "FIL/USD": "FILUSD"
+    },
+    {
+      "FLOW/USD": "FLOWUSD"
+    },
+    {
+      "GHST/USD": "GHSTUSD"
+    },
+    {
+      "GLMR/USD": "GLMRUSD"
+    },
+    {
+      "GNO/USD": "GNOUSD"
+    },
+    {
+      "GRT/USD": "GRTUSD"
+    },
+    {
+      "ICX/USD": "ICXUSD"
+    },
+    {
+      "INJ/USD": "INJUSD"
+    },
+    {
+      "KAR/USD": "KARUSD"
+    },
+    {
+      "KAVA/USD": "KAVAUSD"
+    },
+    {
+      "KEEP/USD": "KEEPUSD"
+    },
+    {
+      "KILT/USD": "KILTUSD"
+    },
+    {
+      "KINT/USD": "KINTUSD"
+    },
+    {
+      "KIN/USD": "KINUSD"
+    },
+    {
+      "KNC/USD": "KNCUSD"
+    },
+    {
+      "KSM/USD": "KSMUSD"
+    },
+    {
+      "LINK/USD": "LINKUSD"
+    },
+    {
+      "LINK/USDT": "LINKUSDT"
+    },
+    {
+      "LPT/USD": "LPTUSD"
+    },
+    {
+      "LRC/USD": "LRCUSD"
+    },
+    {
+      "LSK/USD": "LSKUSD"
+    },
+    {
+      "LTC/USDT": "LTCUSDT"
+    },
+    {
+      "LUNA/USD": "LUNAUSD"
+    },
+    {
+      "MANA/USD": "MANAUSD"
+    },
+    {
+      "MATIC/USD": "MATICUSD"
+    },
+    {
+      "MINA/USD": "MINAUSD"
+    },
+    {
+      "MIR/USD": "MIRUSD"
+    },
+    {
+      "MKR/USD": "MKRUSD"
+    },
+    {
+      "MNGO/USD": "MNGOUSD"
+    },
+    {
+      "MOVR/USD": "MOVRUSD"
+    },
+    {
+      "NANO/USD": "NANOUSD"
+    },
+    {
+      "OCEAN/USD": "OCEANUSD"
+    },
+    {
+      "OGN/USD": "OGNUSD"
+    },
+    {
+      "OMG/USD": "OMGUSD"
+    },
+    {
+      "ORCA/USD": "ORCAUSD"
+    },
+    {
+      "OXT/USD": "OXTUSD"
+    },
+    {
+      "OXY/USD": "OXYUSD"
+    },
+    {
+      "PAXG/USD": "PAXGUSD"
+    },
+    {
+      "PERP/USD": "PERPUSD"
+    },
+    {
+      "PHA/USD": "PHAUSD"
+    },
+    {
+      "POLIS/USD": "POLISUSD"
+    },
+    {
+      "QTUM/USD": "QTUMUSD"
+    },
+    {
+      "RARI/USD": "RARIUSD"
+    },
+    {
+      "RAY/USD": "RAYUSD"
+    },
+    {
+      "REN/USD": "RENUSD"
+    },
+    {
+      "REPV2/USD": "REPV2USD"
+    },
+    {
+      "SAND/USD": "SANDUSD"
+    },
+    {
+      "SBR/USD": "SBRUSD"
+    },
+    {
+      "SC/USD": "SCUSD"
+    },
+    {
+      "SDN/USD": "SDNUSD"
+    },
+    {
+      "SHIB/USD": "SHIBUSD"
+    },
+    {
+      "SNX/USD": "SNXUSD"
+    },
+    {
+      "SOL/USD": "SOLUSD"
+    },
+    {
+      "SRM/USD": "SRMUSD"
+    },
+    {
+      "STEP/USD": "STEPUSD"
+    },
+    {
+      "STORJ/USD": "STORJUSD"
+    },
+    {
+      "SUSHI/USD": "SUSHIUSD"
+    },
+    {
+      "TBTC/USD": "TBTCUSD"
+    },
+    {
+      "TRX/USD": "TRXUSD"
+    },
+    {
+      "UNI/USD": "UNIUSD"
+    },
+    {
+      "USDC/USD": "USDCUSD"
+    },
+    {
+      "USDC/USDT": "USDCUSDT"
+    },
+    {
+      "USDT/USD": "USDTUSD"
+    },
+    {
+      "WAVES/USD": "WAVESUSD"
+    },
+    {
+      "WBTC/USD": "WBTCUSD"
+    },
+    {
+      "XBT/USDT": "XBTUSDT"
+    },
+    {
+      "XDG/USD": "XDGUSD"
+    },
+    {
+      "XDG/USDT": "XDGUSDT"
+    },
+    {
+      "ETC/USD": "ETCUSD"
+    },
+    {
+      "ETH/USD": "ETHUSD"
+    },
+    {
+      "LTC/USD": "LTCUSD"
+    },
+    {
+      "MLN/USD": "MLNUSD"
+    },
+    {
+      "REP/USD": "REPUSD"
+    },
+    {
+      "XRP/USDT": "XRPUSDT"
+    },
+    {
+      "XTZ/USD": "XTZUSD"
+    },
+    {
+      "XBT/USD": "XBTUSD"
+    },
+    {
+      "XLM/USD": "XLMUSD"
+    },
+    {
+      "XMR/USD": "XMRUSD"
+    },
+    {
+      "XRP/USD": "XRPUSD"
+    },
+    {
+      "ZEC/USD": "ZECUSD"
+    },
+    {
+      "YFI/USD": "YFIUSD"
+    },
+    {
+      "EUR/USD": "EURUSD"
+    },
+    {
+      "GBP/USD": "GBPUSD"
+    },
+    {
+      "ZRX/USD": "ZRXUSD"
+    }
+  ]
+}
